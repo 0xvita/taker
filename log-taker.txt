@@ -2722,3 +2722,15 @@
 4/2/2025 | 8:23:36 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:23:39 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:23:39 PM | ERROR | Failed to retrieve nonce for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+4/3/2025 | 1:44:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:44:21 AM | INFO | Start process for wallet 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+4/3/2025 | 1:44:21 AM | INFO | Trying To Login for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+4/3/2025 | 1:44:22 AM | INFO | Login successful... 
+4/3/2025 | 1:44:22 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:44:23 AM | INFO | User ID: 102925354 | Twitter: @novitarastanty | Total Points: 1008000 
+4/3/2025 | 1:44:23 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:44:24 AM | INFO | Last mining time: 4/1/2025, 8:24:33 PM
+4/3/2025 | 1:44:24 AM | INFO | Trying to start Mining for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+4/3/2025 | 1:44:24 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:44:24 AM | INFO | Trying to activate mining on-chain for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+4/3/2025 | 1:44:31 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x61936c6cf75154e5ff2730b5b4ec4584659d14a85e4c2c26041e2aeac6d9c572 

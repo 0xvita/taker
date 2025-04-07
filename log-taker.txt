@@ -2980,3 +2980,12 @@
 4/7/2025 | 8:29:43 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/7/2025 | 8:29:43 AM | INFO | Trying to activate mining on-chain for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
 4/7/2025 | 8:29:49 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x29b5e11bf8f94b7c59f3e5d09be9df70ad44de770429d8e0045b320a5c4b9d89 
+4/7/2025 | 12:44:48 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/7/2025 | 12:44:49 PM | INFO | Start process for wallet 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+4/7/2025 | 12:44:49 PM | INFO | Trying To Login for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+4/7/2025 | 12:44:50 PM | INFO | Login successful... 
+4/7/2025 | 12:44:50 PM | INFO | Trying to check user info... 
+4/7/2025 | 12:44:51 PM | INFO | User ID: 102925354 | Twitter: @novitarastanty | Total Points: 1128000 
+4/7/2025 | 12:44:51 PM | INFO | Trying to check user miner status... 
+4/7/2025 | 12:44:52 PM | INFO | Last mining time: 4/7/2025, 8:29:48 AM
+4/7/2025 | 12:44:52 PM | WARN | Mining already started, next mining time is: 4/8/2025, 8:29:48 AM

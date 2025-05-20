@@ -5437,3 +5437,16 @@
 5/20/2025 | 12:48:55 PM | INFO | Trying to check user miner status... 
 5/20/2025 | 12:48:56 PM | INFO | Last mining time: 5/19/2025, 12:48:57 PM
 5/20/2025 | 12:48:56 PM | WARN | Mining already started, next mining time is: 5/20/2025, 12:48:57 PM
+5/20/2025 | 4:29:07 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 4:29:07 PM | INFO | Start process for wallet 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+5/20/2025 | 4:29:07 PM | INFO | Trying To Login for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+5/20/2025 | 4:29:08 PM | INFO | Login successful... 
+5/20/2025 | 4:29:08 PM | INFO | Trying to check user info... 
+5/20/2025 | 4:29:09 PM | INFO | User ID: 102925354 | Twitter: @novitarastanty | Total Points: 2040000 
+5/20/2025 | 4:29:09 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 4:29:09 PM | INFO | Last mining time: 5/19/2025, 12:48:57 PM
+5/20/2025 | 4:29:09 PM | INFO | Trying to start Mining for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+5/20/2025 | 4:29:10 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 4:29:10 PM | INFO | Trying to activate mining on-chain for wallet: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131 
+5/20/2025 | 4:29:11 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x7294f4924Ea3ad681Dc042068fff7823fE4E1131"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5b","from":"0x7294f4924ea3ad681dc042068fff7823fe4e1131","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/20/2025 | 4:29:11 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
